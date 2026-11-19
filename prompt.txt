@@ -1,1 +1,0 @@
-Write a guide to make.fun: a getting-started tutorial, the README of a public GitHub repository, with your own referral link in it, and a screenshot of the repository's page on GitHub.
